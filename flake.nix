@@ -15,6 +15,8 @@
 	  cargo
 	  rustc
 	  pkg-config
+	  wayland-utils
+	  weston
 
 	  # Wayland & Input Libs
 	  wayland
