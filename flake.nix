@@ -14,6 +14,7 @@
 	smithayDeps = with pkgs; [
 	  cargo
 	  rustc
+	  rust-analyzer
 	  pkg-config
 	  wayland-utils
 	  weston
